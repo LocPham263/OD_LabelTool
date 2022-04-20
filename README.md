@@ -1,5 +1,5 @@
 # OD_LabelTool
-This is the .exe version of [LabelImg](https://github.com/tzutalin/labelImg#build-from-source) object detection tool. Following is the introduction taken from the official github of [LabelImg](https://github.com/tzutalin/labelImg#build-from-source). For more information, you can visit the official github for further details. <br>
+This is the .exe version of [LabelImg](https://github.com/tzutalin/labelImg#build-from-source) object detection label tool. Following is the introduction taken from the official github of [LabelImg](https://github.com/tzutalin/labelImg#build-from-source). For more information, you can visit the official github for further details. <br>
 
 LabelImg is a graphical image annotation tool. It is written in Python and uses Qt for its graphical interface. Annotations are saved as XML files in PASCAL VOC format, the format used by ImageNet. Besides, it also supports YOLO and CreateML formats.
 
