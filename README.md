@@ -9,8 +9,8 @@ LabelImg is a graphical image annotation tool. It is written in Python and uses 
 ## Installation and run
 1. Download the github by:
 ``` bash
-git clone repo
-cd repo
+git clone https://github.com/LocPham263/OD_LabelTool.git
+cd OD_LabelTool
 ```
 2. Create pre-defined classes <br>
 Locate to `./dist/LabelImg/data/` and modify the `predefined_classes.txt` file to define classes you want <br>
